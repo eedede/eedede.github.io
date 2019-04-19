@@ -1,3 +1,3 @@
 # eedede.github.io
 
-Please visit [treckr](https://github.com/eedede/treckr)
+Please visit [treckr](https://eedede.github.com/treckr).
